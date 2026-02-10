@@ -1,0 +1,918 @@
+﻿{
+    "generatedAt":  "2026-02-05T19:24:48",
+    "defaultPath":  "emp_mods/collections/list.em",
+    "files":  [
+                  {
+                      "path":  "emp_mods/collections/list.em",
+                      "group":  "emp_mods"
+                  },
+                  {
+                      "path":  "emp_mods/io/console.em",
+                      "group":  "emp_mods"
+                  },
+                  {
+                      "path":  "emp_mods/math/basic.em",
+                      "group":  "emp_mods"
+                  },
+                  {
+                      "path":  "emp_mods/platform/c.em",
+                      "group":  "emp_mods"
+                  },
+                  {
+                      "path":  "examples/big.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/ffi/c.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/geo/drawable.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/geo/point.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/internal/hidden.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/internal/public.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/main.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/net/http.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/net/socket.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast10.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast11.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast12.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast13.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast14.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast15.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast16.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast17.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast2.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast3.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast5.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast6.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast7.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/repro_ast9.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/tmp_auto.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/tmp_new_features.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/umath/math.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_demo/unsafe/math.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_mods/collections/list.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_mods/io/console.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_mods/math/basic.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_mods/platform/c.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/emp_mods_demo.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/float_demo/src/main.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/forward_prop_cpu_big.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/fstrings_demo.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/geo/drawable.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/geo/point.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/hashmap_bench/main.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/hello_lli.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/hello_llvm.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/import_class_conflict.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/import_oop_ok.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/lib.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/main.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/main_braces.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/main_pkg.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/network/http.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/network/socket.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/nn_project/src/main.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/nn_project/std/console.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/oop.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/small.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "examples/tagtest.em",
+                      "group":  "examples"
+                  },
+                  {
+                      "path":  "mem.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "NN/emp_mods/nn/activations.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "NN/emp_mods/nn/ideal_api.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "NN/emp_mods/nn/xor_mlp.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "NN/emp_mods/std/console.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "NN/src/main.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/alloc/arena.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/collections/list.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/io/console.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/math/basic.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/platform/c.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/std/alloc.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/std/assert.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/std/console.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/std/mem.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/std/mm.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/std/option.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/std/rawmem.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/std/result.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "stdlib/emp_mods/time/duration.em",
+                      "group":  "stdlib"
+                  },
+                  {
+                      "path":  "tests/ast/array_size_canonical_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ast/fstring_float_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ast/fstring_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ast/fstring_unescaped_rbrace_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ast/smoke_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ast/string_index_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ast/tag_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ast/tuple_destructure_arity_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ast/tuple_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/assign_while_borrowed_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/list_assign_while_elem_borrowed_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/list_elem_borrows_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/list_elem_mut_conflict_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/list_elem_shared_then_mut_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/mem_borrow.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/mem_borrow_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/member_assign_while_borrowed_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/member_method_call_after_scope_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/member_method_call_while_borrowed_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/move_after_inner_scope_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/move_while_borrowed_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/mut_ok_inner_scope.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/mut_then_shared_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/shared_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/shared_then_mut_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/borrow/two_mut_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/collections/list_append_infer_mismatch_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/collections/list_append_infer_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/collections/list_methods_len_cap_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/control/break_continue.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/control/defer_basic_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/control/defer_loop_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/control/defer_missing_block_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/control/defer_return_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/control/match.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/control/range_for_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/control/range_for_two_bindings_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/control/short_circuit.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/drop/assign_drops_old_value.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/drop/early_return_drop.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/drop/emp_off_no_drops_inside.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/drop/move_no_double_drop.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/drop/params_drop.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/drop/scope_end_drop.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/emp_mods/alloc/arena.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/emp_mods/math/basic.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/emp_mods/std/alloc.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/emp_mods/std/mem.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/emp_mods/std/rawmem.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/emp_mods/time/duration.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/emp_off/borrow_escape_assign_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/emp_off/borrow_escape_return_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/emp_off/move_escape_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/emp_off/no_escape_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ffi/extern_call_inside_emp_off_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ffi/extern_call_requires_emp_off_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ffi/unsafe_fn_call_inside_emp_off_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ffi/unsafe_fn_call_requires_emp_off_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/hmp.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/lex/tokens_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/auto_infer_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/dyn_dispatch_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/dyn_missing_override_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/dyn_nonvirtual_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/enum_construct_and_match_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/enum_match_bindings_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/enum_match_duplicate_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/enum_match_nonexhaustive_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/fstring_interp_string_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/fstring_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/if_phi_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/list_free_drops_elements_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/list_index_bounds_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/list_ops_ternary_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/list_reserve_pop_empty_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/lower_ops_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/member_assign_nested_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/method_call_nested_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/method_call_temp_receiver_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/method_overload_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/method_override_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/overload_free_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/range_for_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/string_builtins_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/string_index_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/string_methods_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/trait_ufcs_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/tuple_destructure_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/tuple_index_nonconst_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ll/tuple_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/math/basic_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/mm/arena_alloc_inside_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/mm/arena_alloc_outside_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/mm/defer_in_mm_off_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/mm/mm_call_inside_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/mm/mm_call_outside_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/mm/mm_file_directive_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/mm/std_mm_call_inside_emp_off_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/mm/std_mm_call_inside_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/mm/std_mm_call_outside_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/modules/ambiguous/lib.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/modules/ambiguous/main.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/modules/ambiguous/main_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/modules/ambiguous_pkg/main.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/modules/ambiguous_pkg/main_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/modules/ambiguous_pkg/pkg/a.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/modules/emp_mods/lib.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/modules/emp_mods/pkg/b.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/modules/missing/main.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/modules/missing/main_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/overload_ambiguous_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ownership/if_maybe_moved.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ownership/if_maybe_moved_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ownership/return_moved.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ownership/return_moved_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ownership/use_after_move.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/ownership/use_after_move_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/pam.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/time/duration_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/trait/trait_missing_impl_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/trait/trait_missing_method_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/trait/trait_sig_mismatch_fail.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/vendor_alloc/emp_mods/alloc/arena.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/vendor_alloc/emp_mods/std/alloc.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/vendor_alloc/emp_mods/std/mem.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/vendor_alloc/emp_mods/std/rawmem.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/vendor_alloc/src/main_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/vendor_math/emp_mods/math/basic.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/vendor_math/src/main_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/vendor_std/emp_mods/std/console.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/vendor_std/emp_mods/std/option.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/vendor_std/src/main_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/vendor_time/emp_mods/time/duration.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tests/vendor_time/src/main_ok.em",
+                      "group":  "tests"
+                  },
+                  {
+                      "path":  "tmp_array_assign_call.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_auto_param.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_bitwise.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_cast_assign.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_char_match.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_hang_range.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_hang_ternary.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_list_decl_only.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_list_for_empty.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_list_only.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_list_push.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_loops_arrays.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_loops_arrays_no_list.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_proj_empmods/emp_mods/std/console.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_proj_empmods/src/main.em",
+                      "group":  "misc"
+                  },
+                  {
+                      "path":  "tmp_relu.em",
+                      "group":  "misc"
+                  }
+              ]
+}

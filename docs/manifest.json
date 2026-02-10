@@ -1,0 +1,33 @@
+{
+  "title": "EMP Documentation",
+  "home": "README.md",
+  "pages": [
+    {"title": "Home", "path": "README.md"},
+    {"title": "Overview", "path": "00_overview.md"},
+    {"title": "Getting Started", "path": "01_getting_started.md"},
+    {"title": "CLI", "path": "02_cli.md"},
+    {"title": "Runner", "path": "__runner__"},
+    {"title": "Lexing & Syntax", "path": "03_syntax.md"},
+    {"title": "Lexer Tokens", "path": "22_lexer_tokens.md"},
+    {"title": "Types", "path": "04_types.md"},
+    {"title": "Ownership & Borrowing", "path": "05_ownership_borrowing.md"},
+    {"title": "Unsafe: @emp off", "path": "06_emp_off.md"},
+    {"title": "Manual MM: @emp mm off", "path": "07_mm_off.md"},
+    {"title": "Control Flow", "path": "08_control_flow.md"},
+    {"title": "Functions", "path": "09_functions.md"},
+    {"title": "Structs & OOP", "path": "10_structs_oop.md"},
+    {"title": "Enums & match", "path": "11_enums_match.md"},
+    {"title": "Traits & UFCS", "path": "12_traits_ufcs.md"},
+    {"title": "Modules & Packages", "path": "13_modules_packages.md"},
+    {"title": "Strings", "path": "14_strings.md"},
+    {"title": "Arrays & Lists", "path": "15_arrays_lists.md"},
+    {"title": "Standard Library", "path": "16_stdlib.md"},
+    {"title": "Console", "path": "16b_console.md"},
+    {"title": "FFI & ABI", "path": "17_ffi_abi.md"},
+    {"title": "Testing", "path": "18_testing.md"},
+    {"title": "Examples", "path": "19_examples.md"},
+    {"title": "Test Index", "path": "20_test_index.md"},
+    {"title": "Status & Roadmap", "path": "21_status.md"},
+    {"title": "Grammar (Implemented)", "path": "23_grammar_implemented.md"}
+  ]
+}

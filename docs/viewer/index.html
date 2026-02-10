@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>EMP Docs</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230f1621'/%3E%3Cpath d='M18 44V20h28v6H25v3h18v6H25v3h21v6H18z' fill='%2379c0ff'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-title">EMP Docs</div>
+          <div class="brand-subtitle">Local Markdown Viewer</div>
+        </div>
+        <div class="sidebar-actions">
+          <input id="search" class="search" placeholder="Search titles…" />
+        </div>
+        <nav id="nav" class="nav"></nav>
+      </aside>
+      <main class="content">
+        <div id="status" class="status">Loading…</div>
+        <article id="doc" class="doc"></article>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
